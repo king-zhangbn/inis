@@ -4,7 +4,7 @@ window.INIS = {
     api: 'https://systeminis.nbbbx.icu/api',
 
     // 后端开启token验证后，需要将token填写到此处
-    token: '1979c337eb5a397d1893787f6eb4bf23',
+    token: '2f4c6b7ac21f83dafcf4da82213c6510',
 
     // CDN配置，用于加速静态资源
     cdn: 'https://cdn.inis.cc/theme/default/',
